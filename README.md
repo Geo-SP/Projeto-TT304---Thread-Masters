@@ -7,12 +7,6 @@ Este projeto foi desenvolvido como parte da disciplina TT304 - Sistemas Operacio
 
 O programa desenvolvido tem como objetivo ler valores inteiros de múltiplos arquivos de entrada, ordená-los e gravar os valores em um único arquivo de saída. O programa utiliza T threads, onde T pode ser 1, 2, 4 ou 8, e implementa a maior quantidade de threads possível para otimizar o processamento.
 
-## Estrutura do Projeto
-
-- **Código Fonte:** Contém o código desenvolvido em C, seguindo os requisitos especificados.
-- **Relatório:** Inclui os experimentos e resultados obtidos com tempos de processamento para diferentes números de threads.
-- **Vídeo:** Demonstra a execução do programa, a compilação e a explicação dos resultados dos experimentos realizados.
-
 ## Especificações Técnicas
 
 - **Linguagem:** C (pura), utilizando a biblioteca POSIX Threads
