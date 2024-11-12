@@ -56,11 +56,6 @@ Foram realizados experimentos com as seguintes configurações de threads: T = 1
 ## Contribuições
 
 Para contribuir, faça um fork do repositório e envie um pull request com suas sugestões ou correções.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 *Desenvolvido para a disciplina TT304 - Sistemas Operacionais, Por Geovanne Silva e Heloisa Feitosa*
