@@ -1,4 +1,4 @@
-# Projeto-TT304 - Thread-Masters
+# [Projeto-TT304] Thread-Masters
 ![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 Este projeto foi desenvolvido como parte da disciplina TT304 - Sistemas Operacionais, com o objetivo de consolidar os conhecimentos sobre programação com múltiplos threads em C utilizando a biblioteca POSIX Threads.
 
